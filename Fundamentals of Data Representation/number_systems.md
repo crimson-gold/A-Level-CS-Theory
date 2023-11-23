@@ -23,44 +23,12 @@ items
 
 ## Specification
 
-### Natural numbers
-
 | Content | Additional information |
 | --- | --- |
-| ℕ = {0, 1, 2, 3, ... } | Be familiar with the concept of a natural number and the set ℕ of natural numbers (including zero). |
-
-### Integer numbers
-
-| Content | Additional information |
-| --- | --- |
-| ℤ = { ..., -3, -2, -1, 0, 1, 2, 3, ... } | Be familiar with the concept of an integer and the set ℤ of integers. |
-
-### Rational numbers
-
-| Content | Additional information |
-| --- | --- |
-| ℚ is the set of numbers that can be written as fractions (ratios of integers). Since a number such as 7 can be written as 7/1, all integers are rational numbers. | Be familiar with the concept of a rational number and the set ℚ of rational numbers, and that this set includes the integers. |
-
-### Irrational numbers
-
-| Content | Additional information |
-| --- | --- |
-| An irrational number is one that cannot be written as a fraction, for example √2 | Be familiar with the concept of an irrational number. |
-
-### Real numbers
-
-| Content | Additional information |
-| --- | --- |
-| ℝ is the set of all 'possible real world quantities'. | Be familiar with the concept of a real number and the set ℝ of real numbers, which includes the natural numbers, the rational numbers and the irrational numbers. |
-
-### Ordinal numbers
-
-| Content | Additional information |
-| --- | --- |
-| When objects are placed in order, ordinal numbers are used to tell their position. For example, if we have a well-ordered set S = {‘a’, ‘b’, ‘c’, ‘d’}, then ‘a’ is the 1st object, ‘b’ the 2nd, and so on. | Be familiar with the concept of ordinal numbers and their use to describe the numerical positions of objects. |
-
-### Counting and measurement
-
-| Content | Additional information |
-| --- | --- |
-| Be familiar with the use of: <li> natural numbers for counting <li> real numbers for measurement</ul> | |
+| Be familiar with the concept of a natural number and the set ℕ of natural numbers (including zero). | ℕ = {0, 1, 2, 3, ... } |
+| Be familiar with the concept of an integer and the set ℤ of integers. | ℤ = { ..., -3, -2, -1, 0, 1, 2, 3, ... } |
+| Be familiar with the concept of a rational number and the set ℚ of rational numbers, and that this set includes the integers. | ℚ is the set of numbers that can be written as fractions (ratios of integers). Since a number such as 7 can be written as 7/1, all integers are rational numbers. |
+| Be familiar with the concept of an irrational number. | An irrational number is one that cannot be written as a fraction, for example √2 |
+| Be familiar with the concept of a real number and the set ℝ of real numbers, which includes the natural numbers, the rational numbers and the irrational numbers. | ℝ is the set of all 'possible real world quantities'. |
+| Be familiar with the concept of ordinal numbers and their use to describe the numerical positions of objects | When objects are placed in order, ordinal numbers are used to tell their position. For example, if we have a well-ordered set S = {‘a’, ‘b’, ‘c’, ‘d’}, then ‘a’ is the 1st object, ‘b’ the 2nd, and so on.
+| Be familiar with the use of: <li> natural numbers for counting <li> real numbers for measurement</ul> |  ||
