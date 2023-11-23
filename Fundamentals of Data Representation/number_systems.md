@@ -31,4 +31,4 @@ items
 | Be familiar with the concept of an irrational number. | An irrational number is one that cannot be written as a fraction, for example √2 |
 | Be familiar with the concept of a real number and the set ℝ of real numbers, which includes the natural numbers, the rational numbers and the irrational numbers. | ℝ is the set of all 'possible real world quantities'. |
 | Be familiar with the concept of ordinal numbers and their use to describe the numerical positions of objects | When objects are placed in order, ordinal numbers are used to tell their position. For example, if we have a well-ordered set S = {‘a’, ‘b’, ‘c’, ‘d’}, then ‘a’ is the 1st object, ‘b’ the 2nd, and so on.
-| Be familiar with the use of: <li> natural numbers for counting <li> real numbers for measurement</ul> |  ||
+| Be familiar with the use of: <ul><li> natural numbers for counting </li><li> real numbers for measurement</li></ul> |  |
