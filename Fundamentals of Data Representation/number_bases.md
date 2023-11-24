@@ -21,17 +21,8 @@
   of binary numbers  
 `[10, 0110, 11010011, 0101110101010101]`
 
-#### negative binary numbers
-
-- unsigned binary is binary that does not use two's complement or similar
-- binary can represent negative numbers using two's complement, this is where
-  the most significant bit is negated, for example the 8 bit 2's complement
-  binary number 10001001
-in decimal is -128 + 8 + 1 = -119
-if the most significant bit is 0 you can treat the rest of the number as an
-unsigned number.
-
-#### binary numbers with a fractional part
+- see [binary_number_system.md](binary_number_system.md) for more information on
+  binary numbers
 
 ## Conversion
 
