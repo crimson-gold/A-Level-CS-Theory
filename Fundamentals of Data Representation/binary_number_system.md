@@ -149,7 +149,7 @@
 | Content | Additional information |
 | --- | --- |
 | Know the difference between unsigned binary<br>and signed binary. | Students are expected to be able to convert<br>between unsigned binary and decimal and vice<br>versa. |
-| Know that in unsigned binary the minimum and<br>maximum values for a given number of bits, n,<br>are 0 and 2n -1 respectively. |  |
+| Know that in unsigned binary the minimum and<br>maximum values for a given number of bits, n,<br>are 0 and 2^n -1 respectively. |  |
 | Be able to:<br><ul><li> add two unsigned binary integers<br></li><li> multiply two unsigned binary integers.</li></ul> |  |
 | Know that signed binary can be used to<br>represent negative integers and that one<br>possible coding scheme is two’s complement. | This is the only representation of negative<br>integers that will be examined. Students are<br>expected to be able to convert between signed<br>binary and decimal and vice versa. |
 | Know how to:<br><ul><li> represent negative and positive integers<br>in two’s complement<br></li><li> perform subtraction using two’s<br>complement<br></li><li> calculate the range of a given number of<br>bits, n.</li></ul> |  |
