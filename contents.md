@@ -2,12 +2,13 @@
 
 Contents page for the A-Level Computer Science Theory repository.
 Any links that are ~~crossed out~~ have not been started.
+Any links that are **bold** are in progress.
 
 - [~~Fundamentals of programming (4.1)~~](<Fundamentals of Programming/fundamentals_of_programming.md>)
 - [~~Fundamentals of data structures (4.2)~~](<Fundamentals of Data Structures/fundamentals_of_data_structures.md>)
 - [~~Fundamentals of algorithms (4.3)~~](<Fundamentals of Algorithms/fundamentals_of_algorithms.md>)
 - [~~Theory of computation (4.4)~~](<Theory of Computation/theory_of_computation.md>)
-- [Fundamentals of Data Representation (4.5)](<Fundamentals of Data Representation/fundamentals_of_data_representation.md>)
+- [**Fundamentals of Data Representation (4.5)**](<Fundamentals of Data Representation/fundamentals_of_data_representation.md>)
 - [~~Fundamentals of computer systems (4.6)~~](<Fundamentals of Computer Systems/fundamentals_of_computer_systems.md>)
 - [~~Fundamentals of computer organisation and architecture (4.7)~~](<Fundamentals of Computer Organisation and Architecture/fundamentals_of_computer_organisation_and_architecture.md>)
 - [~~Consequences of uses of computing (4.8)~~](<Consequences of Uses of Computing/consequences_of_uses_of_computing.md>)
