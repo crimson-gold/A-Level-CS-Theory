@@ -56,6 +56,6 @@ and merge them back together in the appropriate order
 
 | Content | Additional information |
 | --- | --- |
-| Be familiar with the concept of a number base,<br>in particular:<br><ul><li> decimal (base 10)<br></li><li> binary (base 2)<br></li><li> hexadecimal (base 16).</li></ul> | Students should be familiar with expressing a<br>number’s base using a subscript as follows:<br>Base 10: Number10, eg 6710<br>Base 2: Number2, eg 100110112<br>Base 16: Number16, eg AE16 |
+| Be familiar with the concept of a number base,<br>in particular:<br><ul><li> decimal (base 10)<br></li><li> binary (base 2)<br></li><li> hexadecimal (base 16).</li></ul> | Students should be familiar with expressing a<br>number’s base using a subscript as follows:<br>Base 10: Number<sub>10</sub>, eg 67<sub>10</sub><br>Base 2: Number<sub>2</sub>, eg 10011011<sub>2</sub><br>Base 16: Number<sub>16</sub>, eg AE<sub>16</sub> |
 | Convert between decimal, binary and<br>hexadecimal number bases. |  |
 | Be familiar with, and able to use, hexadecimal<br>as a shorthand for binary and to understand<br>why it is used in this way. |  |
