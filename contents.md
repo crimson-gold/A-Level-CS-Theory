@@ -14,6 +14,6 @@ Any links that are **bold** are in progress.
 - [~~Consequences of uses of computing (4.8)~~](<Consequences of Uses of Computing/consequences_of_uses_of_computing.md>)
 - [~~Fundamentals of communication and networking (4.9)~~](<Fundamentals of Communication and Networking/fundamentals_of_communication_and_networking.md>)
 - [~~Fundamentals of databases (4.10)~~](<Fundamentals of Databases/fundamentals_of_databases.md>)
-- [~~Big Data (4.11)~~](<Big Data/big_data.md>)
+- [**Big Data (4.11)**](<Big Data/big_data.md>)
 - [~~Fundamentals of functional programming (4.12)~~](<Fundamentals of Functional Programming/fundamentals_of_functional_programming.md>)
 - [~~Systematic approach to problem solving (4.13)~~](<Systematic Approach to Problem Solving/systematic_approach_to_problem_solving.md>)
