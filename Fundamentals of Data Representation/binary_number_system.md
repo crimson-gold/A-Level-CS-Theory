@@ -134,9 +134,9 @@
 
 ### Normalisation
 
-### Underflow and Overflow
-
 ## Errors
+
+### Underflow and Overflow
 
 ### Absolute Error
 
